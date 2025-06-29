@@ -1,19 +1,40 @@
-# AI-Powered Educational Assistant using NLP
+# 🎓 AI-Powered Educational Assistant
 
-## 📌 Overview
-This project is a text-based chatbot built using Natural Language Processing (NLP) and Machine Learning. It serves as an educational assistant that answers basic academic questions in areas like Artificial Intelligence, Machine Learning, and Python.
+An intelligent chatbot that helps users learn AI, Machine Learning, and Python concepts using Natural Language Processing and Machine Learning.
 
-## 💡 Features
-- Understands user queries related to AI, ML, Python, etc.
-- Gives accurate responses from a pre-trained knowledge base.
-- Trained using Naive Bayes and CountVectorizer.
-- Terminal-based interface for interaction.
+![Streamlit](https://img.shields.io/badge/Built%20With-Streamlit-orange?style=for-the-badge&logo=streamlit)
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
+![Status](https://img.shields.io/badge/Project-Working-brightgreen?style=for-the-badge)
 
-## 🛠️ Technologies Used
+---
+
+## 🚀 Features
+
+- ✅ Trained using Naive Bayes on custom intents
+- ✅ Understands natural questions and responds accordingly
+- ✅ Streamlit-powered web UI
+- ✅ Lightweight, simple, and beginner-friendly
+
+---
+
+## 🧠 Technologies Used
+
 - Python
 - NLTK
 - Scikit-learn
-- JSON (for intent storage)
+- Streamlit
+- JSON (for intents)
 
-## ▶️ How to Run
-1. Install requirements:
+---
+
+## 📸 Screenshot
+
+![Chatbot Screenshot](screenshot.png)
+
+---
+
+## 🛠 How to Run
+
+### 🔧 Local Setup
+
+1. Clone the repository  
